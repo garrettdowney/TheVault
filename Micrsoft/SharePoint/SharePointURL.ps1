@@ -1,5 +1,5 @@
 #Parameters
-$SiteUrl = "https://dmlawkc.sharepoint.com/sites/Finance"
+$SiteUrl = "https://yourdomain.sharepoint.com/sites/department"
 $ReportOutput = "C:\Temp\SharedLinks.csv"
 $ListName = "Docuemtns"
     

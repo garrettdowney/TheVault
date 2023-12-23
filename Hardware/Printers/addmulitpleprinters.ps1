@@ -1,4 +1,4 @@
-$printers = import-csv -Path C:\Windows\Temp\ScreenConnect\23.1.1.8423\Files\printers.csv
+$printers = import-csv -Path C:\Filepath\printers.csv
 
 foreach ($printer in $printers) {
     Add-PrinterPort -Name $printer.IPAddress -PrinterHostAddress $printer.IPAddress

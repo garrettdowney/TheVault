@@ -1,1 +1,1 @@
-net user /add TechPoint "Password" && net localgroup administrators TechPoint /add
+net user /add "Admin account name" "Password" && net localgroup administrators "Admin account name" /add
