@@ -6,7 +6,7 @@ Install
 Install-Module -Name Microsoft.Online.SharePoint.PowerShell -Force
 
 Connect
-Connect-SPOService -Url https://northpointkc-admin.sharepoint.com/
+Connect-SPOService -Url https://yourdomain-admin.sharepoint.com/
 
 Managing - Exchange Online
 

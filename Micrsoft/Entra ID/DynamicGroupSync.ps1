@@ -1,1 +1,1 @@
-Set-AzureADMSGroup -Id "6a9a92a0-4899-43ea-9a6d-01d9ffb14406" -MembershipRuleProcessingState "paused" Set-AzureADMSGroup -Id "6a9a92a0-4899-43ea-9a6d-01d9ffb14406" -MembershipRuleProcessingState "on"
+Set-AzureADMSGroup -Id "Group ID" -MembershipRuleProcessingState "paused" Set-AzureADMSGroup -Id "Group ID" -MembershipRuleProcessingState "on"

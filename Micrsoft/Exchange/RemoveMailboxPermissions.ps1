@@ -2,7 +2,7 @@
 Connect-ExchangeOnline
 
 # Specify the mailbox email address
-$Mailbox = "aschaffer@northpointlogistics.com"
+$Mailbox = <User Principle Name>
 
 # Get all SendAs permissions for the mailbox
 $SendAsPermissions = Get-RecipientPermission -Identity $Mailbox -AccessRights SendAs

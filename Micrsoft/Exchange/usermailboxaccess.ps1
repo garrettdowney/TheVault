@@ -6,7 +6,7 @@ Connect-ExchangeOnline
 
 #Report Each Mailbox a User has access to
 
-$MX = 'kathy.hudon@dmlawusa.com'
+$MX = 'User principle name'
 
 $mailboxes = Get-Mailbox -ResultSize Unlimited
 

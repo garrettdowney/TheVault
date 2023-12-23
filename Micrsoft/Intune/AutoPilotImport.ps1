@@ -1,1 +1,1 @@
-﻿Get-WindowsAutoPilotInfo.ps1 -Online -AddToGroup “WHQ”
+﻿Get-WindowsAutoPilotInfo.ps1 -Online -AddToGroup “Entra ID Group Name”

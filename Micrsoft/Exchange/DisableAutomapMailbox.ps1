@@ -1,1 +1,1 @@
-Add-MailboxPermission -Identity ayat.youssef@dmlawusa.com -User estella.smith@dmlawusa.com -AccessRights FullAccess -AutoMapping $false
+Add-MailboxPermission -Identity "Mailbox giving permission" -User "User getting access to mailbox" -AccessRights FullAccess -AutoMapping $false

@@ -1,5 +1,5 @@
 #Parameters
-$SiteURL = "https://northpointkc.sharepoint.com/development/projects/Forms/AllItems.aspx?id=%2Fdevelopment%2Fprojects%2FIndustrial%2F0225%20%2D%20Horizons&viewid=d9732cef%2D6204%2D4060%2D879f%2D1adb9c7ea59f"
+$SiteURL = "https://yourdomain.sharepoint.com/"
 $MaxUrlLength = 218
 $CSVPath = "/Documents/LongURLInventory.csv"
 $global:LongURLInventory = @()
