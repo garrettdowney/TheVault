@@ -1,0 +1,1 @@
+﻿Get-WindowsAutoPilotInfo.ps1 -Online -AddToGroup “WHQ”

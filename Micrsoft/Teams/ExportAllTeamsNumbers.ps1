@@ -1,0 +1,1 @@
+Get-CsOnlineUser | Where-Object  { $_.LineURI -notlike $null } | select-object DisplayName,UserPrincipalName,LineURI | Export-Csv -Path C:\Users\morr.NORTHPOINT\Downloads\phonenumbers1.csv

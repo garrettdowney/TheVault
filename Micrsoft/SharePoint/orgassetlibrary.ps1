@@ -1,0 +1,1 @@
+Add-SPOOrgAssetsLibrary -LibraryURL https://northpointkc.sharepoint.com/sites/NPLIntranet/NPL%20Templates/Forms/AllItems.aspx -OrgAssetType ImageDocumentLibrary

@@ -1,0 +1,1 @@
+Add-MailboxPermission -Identity ayat.youssef@dmlawusa.com -User estella.smith@dmlawusa.com -AccessRights FullAccess -AutoMapping $false

@@ -1,0 +1,1 @@
+Get-DistributionGroup -RecipientTypeDetails RoomList

@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri https://www.dinopass.com/password/strong -usebasicparsing | Select-Object -ExpandProperty content
